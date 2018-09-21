@@ -1,5 +1,5 @@
 _repo: Round-the-Fire-Stories_54109
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Castaigne, J. André
@@ -10,6 +10,9 @@ contributor:
     - Castaigne, J. Andre
     gutenberg_agent_id: '31877'
     url: http://www.gutenberg.org/2009/agents/31877
+covers:
+- cover_type: archival
+  image_path: 54109-h/images/cover.jpg
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54109#Round-the-Fire-Stories
 gutenberg_issued: '2017-02-04'
 gutenberg_type: Text
 identifiers:
